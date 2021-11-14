@@ -1,1 +1,3 @@
 # Movies_ETL
+
+In this project we are helping Britta who works with Amazing Prime Video create an automated pipeline using Extract, Trasform and Load process (ETL) to update the movie dataset on a dialy basis. Using Python and Pandas library we will extract and transform the movies data from Wikipedia and Kaggle and movie ratings data from MovieLens website. We will load and store the transformed data into tables using PostGRESQL. 
